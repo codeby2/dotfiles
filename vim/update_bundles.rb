@@ -24,7 +24,8 @@ git_bundles = [
   "https://github.com/nelstrom/vim-textobj-rubyblock.git",
   "git://git.wincent.com/command-t.git",
   "https://github.com/markabe/bufexplorer.git",
-  "git://gist.github.com/287147.git"
+  "git://gist.github.com/287147.git",
+  "https://github.com/kchmck/vim-coffee-script.git"
 ]
 
 vim_org_scripts = [

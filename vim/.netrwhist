@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/pair/PawLinks/app/views/layouts'
+let g:netrw_dirhist_2='/home/deploy/.rvm/gems/ruby-1.8.7-p352/gems/recaptcha-0.3.1'
+let g:netrw_dirhist_3='/home/deploy/.rvm/gems/ruby-1.8.7-p352/bundler/gems/rails_admin-1700ba0440b3'
+let g:netrw_dirhist_4='/home/deploy/PawLinks'
