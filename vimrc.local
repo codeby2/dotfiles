@@ -115,7 +115,7 @@ nmap <silent> <F4> :set invwrap<CR>:set wrap?<CR>
 " ACK integration
 " set grepprg=ack-grep
 " set grepformat=%f:%l:%m
-let g:ackprg="ack-grep -H --nocolor --nogroup --column"
+" let g:ackprg="ack-grep -H --nocolor --nogroup --column"
 
 " Find searched_string in directories(...)
 function RailsGrep(searched_string,...)
